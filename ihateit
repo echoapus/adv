@@ -141,6 +141,10 @@
 ||windowsupdate.nsatc.net^
 ||wustat.windows.com^
 ||linevoom.line.me^
+||www.googleadservices.com^
+||firebaselogging-pa.googleapis.com^
+|api-lytics.macpaw.com^
+||www.googletagmanager.com^
 ||.cn^
 ||.analytics^
 ||.recipes^
@@ -152,7 +156,5 @@
 ||.rest^
 ||.work^
 ||.email^
-||www.googleadservices.com^
-||api-lytics.macpaw.com^
-||www.googletagmanager.com^
-||firebaselogging-pa.googleapis.com^
+
+
