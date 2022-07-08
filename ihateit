@@ -156,5 +156,6 @@
 ||.rest^
 ||.work^
 ||.email^
-
+||api.mixpanel.com^
+||mobile.launchdarkly.com^
 
