@@ -167,4 +167,16 @@
 ||uts-front.line-apps.com^
 ||*.cws.conviva.com^
 ||sdk.iad*.braze.com^
+||ostats.mozilla.com^
+||sostats.mozilla.com^
+||metrics.mozilla.com^
+||hardware.metrics.mozilla.com^
+||incoming.telemetry.mozilla.org^
+||crash-stats.mozilla.com^
+||experiments.mozilla.org^
+||getpocket.cdn.mozilla.net^
+||qsurvey.mozilla.com^
+||telemetry.mozilla.org^
+||telemetry-experiment.cdn.mozilla.net^
+||detectportal.firefox.com^
 
