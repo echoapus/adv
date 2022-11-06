@@ -178,4 +178,6 @@
 ||telemetry.mozilla.org^
 ||telemetry-experiment.cdn.mozilla.net^
 
+www.youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
 
