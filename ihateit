@@ -144,7 +144,6 @@
 ||www.googleadservices.com^
 ||firebaselogging-pa.googleapis.com^
 ||api-lytics.macpaw.com^
-||.cn^
 ||.analytics^
 ||.recipes^
 ||.gq^
@@ -164,7 +163,7 @@
 ||getui.com^
 ||play.google.com^
 ||uts-front.line-apps.com^
-||*.cws.conviva.com^
+||cws.conviva.com^
 ||sdk.iad*.braze.com^
 ||ostats.mozilla.com^
 ||sostats.mozilla.com^
