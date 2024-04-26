@@ -2,6 +2,9 @@
 #!desc=adv4surge
 #!system=ios
 [Host]
+ad.line-scdn.net = 0.0.0.0
+*.ad.line-scdn.net = 0.0.0.0
+ad*.line-scdn.net = 0.0.0.0
 jp-col-tcp.nelo.linecorp.com = 0.0.0.0
 voom.line-scdn.net = 0.0.0.0
 2o7.net = 0.0.0.0
