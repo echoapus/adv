@@ -1,6 +1,6 @@
 #!name=adv4surge
 #!desc=adv4surge
-#!system=ios
+
 [Host]
 ad.line-scdn.net = 0.0.0.0
 *.ad.line-scdn.net = 0.0.0.0
